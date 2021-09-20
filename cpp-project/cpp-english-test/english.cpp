@@ -9,8 +9,8 @@
 
 using namespace std;
 
-string Daneo[] = {"amazing", "blueWhale", "buddhist", "carry", "coconut", "cotton", "crow", "dolphin", "drop", "experiment"};
-string Ddut[] = {"놀라운", "대왕고래", "불교", "나르다", "코코넛", "면", "까마귀", "돌고래", "떨어뜨리다", "실험"};
+string Daneo[] = {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j"};
+string Ddut[] = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};
 int a;
 int oSu = 0;
 string b;
