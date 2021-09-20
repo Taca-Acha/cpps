@@ -24,7 +24,7 @@ int main() {
         while (true) {
             system("cls");
             srand((unsigned int)time(NULL));
-            int a = rand() % 10;
+            int a = 0;
 
             cout << "맞춘 수 : " << oSu << endl;
             cout << Daneo[a] << endl;
@@ -34,6 +34,7 @@ int main() {
                 cout << "정답!\n";
                 oSu++;
                 Sleep(3000);
+                a++;
                 continue;
             } else if (b != Ddut[a]) {
                 cout << "실패.\n";
@@ -46,7 +47,7 @@ int main() {
         while (true) {
             system("cls");
             srand((unsigned int)time(NULL));
-            int a = rand() % 10;
+            int a = 0;
 
             cout << "맞춘 수 : " << oSu << endl;
             cout << Ddut[a] << endl;
@@ -55,6 +56,7 @@ int main() {
             if (b == Daneo[a]) {
                 cout << "정답!\n";
                 oSu++;
+                a++;
                 Sleep(3000);
                 continue;
             } else if (b != Daneo[a]) {
