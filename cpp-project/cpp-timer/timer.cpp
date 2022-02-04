@@ -1,8 +1,5 @@
 /*
 *Made by T.aca Studio
-*절대로 코드의 내용을 변경하지 마세요!
-*코드를 변경하면 오류가 생길 수 있습니다!
-*#002
 */
 
 #include <iostream>
