@@ -1,9 +1,3 @@
-/*
-*Made by T.aca Studio
-*사용시 int main() 쪽을 수정하면 안됩니다.
-*상단의 주석을 지우지 마세요. 수정할걸 다 아는 사람이라면 지우셔도 됩니다.
-*v3
-*/
 
 #include <iostream>
 #include <windows.h>
