@@ -10,7 +10,6 @@ using namespace std;
 int minute;
 int second;
 
-// 이건 사실 필요없습니다..
 int arr[] = {minute, second};
 
 int main() {
