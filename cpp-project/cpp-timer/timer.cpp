@@ -1,6 +1,3 @@
-/*
-*Made by T.aca Studio
-*/
 
 #include <iostream>
 #include <Windows.h>
