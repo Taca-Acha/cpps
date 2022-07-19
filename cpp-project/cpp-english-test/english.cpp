@@ -5,7 +5,9 @@
 
 using namespace std;
 
+//여기에 단어 작성
 string Daneo[] = {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j"};
+//여기에 뜻 작성
 string Ddut[] = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};
 int a;
 int oSu = 0;
